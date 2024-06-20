@@ -16,9 +16,8 @@ Logic: We can find the number of digits in a number by dividing the number by 10
   
 */
 int countDigits(int n) {
-if(n=0){ // Base case: if n=0 then return 1 as 0 has 1 digit
-    return 1;
-}
+if(n==0){
+  return 1; } // Base case: if n=0 then return 1 as 0 has 1 digit
   int count = 0; 
   while (n != 0) { // Loop to count the number of digits
     n /= 10; // Divide the number by 10 to remove the last digit

@@ -1,0 +1,4 @@
+{
+    "debug.closeReadonlyTabsOnEnd": false,
+    "files.readonlyFromPermissions": false
+}
