@@ -18,9 +18,24 @@ int recursiveGCD(long long a,long long b){
      then gcd of a and b is same as gcd of a and b-a*/
 }
 /*
+Euclidean algorithm:
+Time complexity of this code is O(log(min(a,b)))
+    as the algorithm reduces the problem size by a factor of 2 in each iteration.
+Auxiliary space used by this code is O(1)
+    as we are using only three variables to store the values of a, b, and a%b.
+Logic: The Euclidean algorithm is an efficient way to find the GCD of two numbers.
+    The algorithm states that the GCD of two numbers a and b is the same as the GCD of b and a%b.
+    We continue this process until b becomes 0.
+    The GCD of a and b is the value of a when b becomes 0.
+    For example:
+    a=48, b=18
+    48%18=12
+    18%12=6
+    12%6=0
+    So, the GCD of 48 and 18 is 6.
 */
 int euclideanGCD(long long a,long long b){
-    if(n<0){return -1;} //Base case as gcd is not defined for negative numbers
+   
     return b==0?a:euclideanGCD(b,a%b); /*If b is 0, then gcd is a,
      else gcd of a and b is same as gcd of b and a%b*/
 }
