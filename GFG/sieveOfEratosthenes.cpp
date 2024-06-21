@@ -1,7 +1,7 @@
 //Given a number n, print all the prime numbers less than n.It is given that n is a small number.
 #include<iostream>
-using namespace std;
 #include<vector>
+using namespace std;
 
 /*
 Sieve of Eratosthenes:
@@ -47,7 +47,6 @@ int main() {
     int n ;
     cout << "Enter the number:";
     cin >> n;
-    cin>>n;
     vector<int> primes = sieveOfEratosthenes(n);
     for (int prime : primes) {
         cout << prime << " ";
