@@ -17,6 +17,17 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 | 9 | [**Prime Divisors**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/printDivisors.cpp) | Find and print all prime divisors of a given positive integer n (including 1 and n if they are prime). |
 | 10 | [**Sieve of Eratosthenes**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/sieveOfEratosthenes.cpp) | Implement the Sieve of Eratosthenes algorithm to find all prime numbers up to a given limit n. |
 | 11 | [**Power of a Number**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/power.cpp) | Calculate x raised to the power of n (x^n) for given integers x and n. |
+| 12 | [**Absolute Value**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/absoluteValue.cpp) | Find the absolute value of a given integer. |
+| 13 | [**Celsius to Fahrenheit**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/cToF.cpp) | Convert a temperature from Celsius to Fahrenheit. |
+| 14 | [**Quadratic Roots**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/quadraticRoots.cpp) | Find the roots of a quadratic equation ax^2 + bx + c = 0. |
+| 15 | [**Factorial**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/factorial.cpp) | Find the factorial of a given number. |
+| 16 | [**Exactly 3 Divisors**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/exactly3Divisors.cpp) | Determine if a given number has exactly three divisors. |
+| 17 | [**Sum Under Modulo**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/sumUnderModulo.cpp) | Find the sum of two numbers under a given modulo. |
+| 18 | [**Multiplication Under Modulo**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/multiplicationUnderModulo.cpp) | Find the product of two numbers under a given modulo. |
+| 19 | [**Modular Inverse**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/modInverse.cpp) | Calculate the modular inverse of a number under a given modulo. |
+| 20 | [**Get Largest**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/getLargest.cpp) | Find the largest number in an array. |
+| 21 | [**Second Largest**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/secondLargest.cpp) | Find the second largest number in an array. |
+
 
 ## Prerequisites
 
