@@ -14,7 +14,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) pr
 | 6 | [**Least Common Multiple (LCM)**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/lcm.cpp) | Find the Least Common Multiple (LCM) of two non-negative integers a and b. |
 | 7 | [**Check Prime Number**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/checkPrime.cpp) | Check if a given positive integer n is a prime number. |
 | 8 | [**Prime Factors**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/primeFactors.cpp) | Find and print all prime factors of a given positive integer n. |
-| 9 | [**Prime Divisors**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/primeDivisors.cpp) | Find and print all prime divisors of a given positive integer n (including 1 and n if they are prime). |
+| 9 | [**Prime Divisors**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/printDivisors.cpp) | Find and print all prime divisors of a given positive integer n (including 1 and n if they are prime). |
 | 10 | [**Sieve of Eratosthenes**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/sieveOfEratosthenes.cpp) | Implement the Sieve of Eratosthenes algorithm to find all prime numbers up to a given limit n. |
 | 11 | [**Power of a Number**](https://github.com/KaustubhRai-89/DSA/blob/main/GFG/power.cpp) | Calculate x raised to the power of n (x^n) for given integers x and n. |
 
